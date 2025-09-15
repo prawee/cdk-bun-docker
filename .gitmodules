@@ -1,0 +1,4 @@
+[submodule "lambda"]
+	path = lambda
+	url = https://github.com/prawee/try-bun.git
+	branch = with-hono
